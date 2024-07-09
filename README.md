@@ -1,4 +1,4 @@
 # QuantumProjects
-Contains projects I have worked on pertaining to quantum computing.
+Contains my quantum computing projects.
 
 ### Grover's Algorithm - Darwin Vargas and Matthew Hurtado
