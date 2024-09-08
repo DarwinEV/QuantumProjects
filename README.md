@@ -1,5 +1,5 @@
 # QuantumProjects
-Contains quantum computing projects.
+Quantum computing projects.
 
 ### Grover's Algorithm - Darwin Vargas and Matthew Hurtado
 ### Quantum Walk - Darwin Vargas and YuQing Peng 
